@@ -1,0 +1,600 @@
+{
+  "business": {
+    "name": "Inland Fence Inc",
+    "phone": "+17606381207",
+    "category": "fence contractor",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-trust-navy",
+      "categoryGroup": "roofing",
+      "name": "Trust Navy",
+      "recipeFile": "roofing/trust-navy.astro",
+      "colors": {
+        "primary": "#2C4563",
+        "primaryDark": "#1B2F45",
+        "primaryLight": "#D4E0ED",
+        "secondary": "#3D5A80",
+        "accent": "#3D6B5A",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#2C4563",
+        "surface": "#F4F6F8",
+        "text": "#1A1A2E",
+        "textLight": "#4A5568",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "700",
+        "bodyFont": "Source Sans 3",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "dark",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/trust-navy"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "San Diego's Fence Authority",
+      "heroSubline": "Durable, dependable fences built to last. Protecting your property with expert craftsmanship.",
+      "aboutTitle": "Built on Integrity, Rooted in San Diego",
+      "aboutText": [
+        "Inland Fence Inc was founded over a decade ago with a simple mission: to provide San Diego County with superior fencing solutions built to withstand the unique challenges of our climate. We saw a need for contractors who understood the demands of coastal salt air, inland wildfire risks, and the intense California sun.",
+        "Our approach is straightforward: quality materials, meticulous installation, and clear communication. We don't cut corners, and we stand behind every fence we build. We treat every project – from a small backyard repair to a large commercial installation – with the same level of dedication and attention to detail.",
+        "We're proud to be a part of the San Diego community. We source our materials locally whenever possible, and we actively support local organizations that are working to improve our neighborhoods. When you choose Inland Fence Inc, you're choosing a company that's invested in the success of our community."
+      ],
+      "valueProps": [
+        {
+          "title": "Durable Materials",
+          "description": "We use only the highest-quality materials designed to withstand San Diego's climate and protect your investment."
+        },
+        {
+          "title": "Expert Installation",
+          "description": "Our experienced team ensures precise installation for a fence that's both beautiful and structurally sound."
+        },
+        {
+          "title": "Custom Solutions",
+          "description": "We tailor our services to meet your specific needs and aesthetic preferences, creating a fence that perfectly complements your property."
+        },
+        {
+          "title": "Local Expertise",
+          "description": "We understand the unique challenges of San Diego's environment and build fences that are built to last in this area."
+        }
+      ],
+      "ctaHeadline": "Secure Your Property Today",
+      "ctaSubline": "Get a free, no-obligation quote for your fencing project. Call now!"
+    },
+    "services": [
+      {
+        "slug": "wood-fences",
+        "name": "Wood Fences",
+        "shortDescription": "Classic wood fences for privacy, security, and timeless appeal.",
+        "description": "Wood fences offer a natural aesthetic and versatile design options, making them a popular choice for San Diego homeowners. At Inland Fence Inc, we specialize in building durable wood fences that can withstand the challenges of our local climate. We use pressure-treated lumber to resist rot and insect damage, and we offer a variety of styles, including picket fences, privacy fences, and split-rail fences. Whether you're looking to enhance your curb appeal, create a secluded backyard oasis, or simply define your property lines, we can design and install a wood fence that meets your specific needs.\n\nOur team carefully assesses your property to determine the best fencing solution. We consider factors such as soil conditions, slope, and wind exposure to ensure that your fence is built to last. We also offer staining and sealing services to protect your wood fence from the elements and extend its lifespan. With proper maintenance, a wood fence from Inland Fence Inc will provide years of beauty and security.\n\nWe understand that every property is unique. That's why we offer a wide range of customization options for our wood fences. You can choose from different wood species, heights, and styles to create a fence that perfectly complements your home. We also offer custom gate designs to provide convenient access to your property.",
+        "process": [
+          "Consultation and Design",
+          "Material Selection",
+          "Precise Installation",
+          "Staining and Sealing (Optional)"
+        ],
+        "benefits": [
+          "Enhanced Privacy",
+          "Increased Security",
+          "Improved Curb Appeal",
+          "Natural Aesthetic"
+        ],
+        "faq": [
+          {
+            "question": "How long will a wood fence last in San Diego's climate?",
+            "answer": "With proper maintenance, a pressure-treated wood fence can last 15-20 years in San Diego. Regular staining and sealing will help protect it from the sun and moisture."
+          },
+          {
+            "question": "What types of wood are best for fences in this area?",
+            "answer": "Pressure-treated pine and redwood are excellent choices for fences in San Diego. They are naturally resistant to rot and insect damage."
+          },
+          {
+            "question": "Can you match my existing fence style?",
+            "answer": "Yes, we can match most fence styles and designs. Our team will work with you to create a seamless look for your property."
+          }
+        ]
+      },
+      {
+        "slug": "vinyl-fences",
+        "name": "Vinyl Fences",
+        "shortDescription": "Low-maintenance vinyl fences for long-lasting beauty and durability.",
+        "description": "Vinyl fences are a popular choice for San Diego homeowners who want a durable, low-maintenance fencing solution. Unlike wood fences, vinyl fences won't rot, warp, or splinter, and they never need to be painted or stained. They're also resistant to insects and moisture, making them an ideal choice for our coastal climate. At Inland Fence Inc, we offer a wide selection of vinyl fence styles, including privacy fences, picket fences, and ranch rail fences.\n\nOur vinyl fences are made from high-quality materials that are designed to withstand the elements. They're also UV-resistant, so they won't fade or discolor over time. With minimal maintenance, your vinyl fence will look beautiful for years to come. We offer a variety of colors and textures to choose from, so you can find the perfect match for your home's exterior.\n\nIn addition to their durability and low maintenance, vinyl fences are also environmentally friendly. They're made from recycled materials and can be recycled again at the end of their lifespan. This makes them a sustainable choice for homeowners who are looking to reduce their environmental impact.",
+        "process": [
+          "Site Assessment",
+          "Post Installation",
+          "Panel Installation",
+          "Final Inspection"
+        ],
+        "benefits": [
+          "Low Maintenance",
+          "Long-Lasting Durability",
+          "Weather Resistance",
+          "Environmentally Friendly"
+        ],
+        "faq": [
+          {
+            "question": "How do I clean a vinyl fence?",
+            "answer": "Vinyl fences can be easily cleaned with soap and water. For stubborn stains, you can use a mild household cleaner."
+          },
+          {
+            "question": "Will a vinyl fence fade in the sun?",
+            "answer": "Our vinyl fences are UV-resistant and won't fade or discolor over time."
+          },
+          {
+            "question": "What colors are available for vinyl fences?",
+            "answer": "We offer a variety of colors, including white, tan, gray, and woodgrain finishes."
+          }
+        ]
+      },
+      {
+        "slug": "chain-link-fences",
+        "name": "Chain Link Fences",
+        "shortDescription": "Affordable and secure chain link fences for residential and commercial properties.",
+        "description": "Chain link fences are a practical and cost-effective solution for securing your property. They're durable, low-maintenance, and provide excellent visibility. At Inland Fence Inc, we offer a variety of chain link fence options to meet your specific needs. Whether you're looking to enclose a backyard, secure a commercial property, or create a dog run, we can design and install a chain link fence that meets your requirements.\n\nOur chain link fences are made from galvanized steel, which is resistant to rust and corrosion. We also offer vinyl-coated chain link fences in a variety of colors to blend in with your surroundings. Our experienced team ensures precise installation for a fence that's both secure and visually appealing. We also offer a variety of gate options to provide convenient access to your property.\n\nChain link fences are an excellent choice for homeowners and business owners who are looking for a reliable and affordable fencing solution. They're also a popular choice for schools, parks, and other public spaces.",
+        "process": [
+          "Property Survey",
+          "Post Setting",
+          "Mesh Installation",
+          "Gate Installation (Optional)"
+        ],
+        "benefits": [
+          "Affordable",
+          "Secure",
+          "Low Maintenance",
+          "Versatile"
+        ],
+        "faq": [
+          {
+            "question": "How tall can a chain link fence be?",
+            "answer": "Chain link fences can be built to various heights, depending on your needs and local regulations. We can advise you on the appropriate height for your property."
+          },
+          {
+            "question": "Can I add privacy slats to a chain link fence?",
+            "answer": "Yes, privacy slats can be added to a chain link fence to increase privacy and reduce visibility."
+          },
+          {
+            "question": "What gauge of chain link is best for security?",
+            "answer": "A lower gauge (thicker wire) chain link is more secure. We recommend a 9-gauge or heavier for security applications."
+          }
+        ]
+      },
+      {
+        "slug": "iron-wrought-fences",
+        "name": "Wrought Iron Fences",
+        "shortDescription": "Elegant wrought iron fences for security and timeless beauty.",
+        "description": "Wrought iron fences add a touch of elegance and sophistication to any property. They're also incredibly strong and durable, providing excellent security. At Inland Fence Inc, we specialize in designing and installing custom wrought iron fences that enhance the beauty and value of your home or business. We work with you to create a unique design that reflects your personal style and complements your property's architecture.\n\nOur wrought iron fences are handcrafted by skilled artisans using the highest-quality materials. We offer a variety of finishes and styles to choose from, including traditional and contemporary designs. Our experienced team ensures precise installation for a fence that's both beautiful and secure. We also offer custom gate designs to provide convenient access to your property.\n\nWrought iron fences are an investment that will last for generations. They're a timeless choice that will add value and curb appeal to your property for years to come.",
+        "process": [
+          "Custom Design",
+          "Fabrication",
+          "Protective Coating",
+          "Professional Installation"
+        ],
+        "benefits": [
+          "Enhanced Security",
+          "Timeless Beauty",
+          "Increased Property Value",
+          "Customizable Designs"
+        ],
+        "faq": [
+          {
+            "question": "How much maintenance does a wrought iron fence require?",
+            "answer": "Wrought iron fences should be inspected annually and repainted or powder-coated as needed to prevent rust."
+          },
+          {
+            "question": "Can I customize the design of my wrought iron fence?",
+            "answer": "Yes, we specialize in custom designs. Our team will work with you to create a unique fence that reflects your personal style."
+          },
+          {
+            "question": "Are wrought iron fences expensive?",
+            "answer": "Wrought iron fences are a premium fencing option and are typically more expensive than wood or chain link fences."
+          }
+        ]
+      },
+      {
+        "slug": "gate-installation-repair",
+        "name": "Gate Installation & Repair",
+        "shortDescription": "Professional gate services for security, access, and convenience.",
+        "description": "A well-functioning gate is essential for security, access, and convenience. At Inland Fence Inc, we offer comprehensive gate services, including installation, repair, and maintenance. Whether you need a new gate installed, an existing gate repaired, or a gate opener serviced, our experienced team can help. We work with all types of gates, including wood gates, vinyl gates, chain link gates, and wrought iron gates.\n\nWe understand that gate problems can be frustrating. That's why we offer prompt and reliable service to get your gate back in working order as quickly as possible. We also offer preventative maintenance services to help keep your gate functioning smoothly and prevent future problems. Our team is equipped with the latest tools and technology to handle any gate issue, from broken hinges to malfunctioning openers.\n\nWe are committed to providing our customers with the highest quality gate services at competitive prices. Contact us today for a free estimate.",
+        "process": [
+          "Inspection and Diagnosis",
+          "Part Replacement/Repair",
+          "Alignment and Adjustment",
+          "Opener Servicing (If Applicable)"
+        ],
+        "benefits": [
+          "Improved Security",
+          "Convenient Access",
+          "Enhanced Property Value",
+          "Peace of Mind"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my gate serviced?",
+            "answer": "We recommend having your gate serviced annually to ensure that it's functioning properly and to prevent potential problems."
+          },
+          {
+            "question": "What are the signs that my gate needs repair?",
+            "answer": "Signs that your gate needs repair include squeaking, sticking, sagging, and difficulty opening or closing."
+          },
+          {
+            "question": "Can you install a gate opener on my existing gate?",
+            "answer": "Yes, we can install a gate opener on most existing gates. We will assess your gate and recommend the appropriate opener for your needs."
+          }
+        ]
+      },
+      {
+        "slug": "fence-repair",
+        "name": "Fence Repair",
+        "shortDescription": "Prompt and reliable fence repair services to restore your fence's integrity.",
+        "description": "San Diego's climate can be tough on fences. Whether it's sun damage, wind damage, or just general wear and tear, fences eventually need repair. Inland Fence Inc offers comprehensive fence repair services to restore your fence's integrity and prolong its lifespan. We handle all types of fence repairs, from replacing broken posts and panels to repairing damaged gates and hardware. We work with all types of fences, including wood fences, vinyl fences, chain link fences, and wrought iron fences.\n\nWe understand that a damaged fence can compromise your security and curb appeal. That's why we offer prompt and reliable service to get your fence back in top condition as quickly as possible. Our experienced team will assess the damage and provide you with a cost-effective repair solution. We use high-quality materials to ensure that your fence repair is durable and long-lasting.\n\nDon't let a damaged fence detract from the beauty and security of your property. Contact Inland Fence Inc for expert fence repair services.",
+        "process": [
+          "Damage Assessment",
+          "Material Sourcing",
+          "Structural Repairs",
+          "Aesthetic Restoration"
+        ],
+        "benefits": [
+          "Restored Security",
+          "Improved Curb Appeal",
+          "Extended Fence Lifespan",
+          "Cost-Effective Solution"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my fence needs repair?",
+            "answer": "Signs that your fence needs repair include leaning, sagging, broken posts, loose panels, and rust or rot."
+          },
+          {
+            "question": "Can you repair a fence that has been damaged by a storm?",
+            "answer": "Yes, we have experience repairing fences that have been damaged by storms and other weather events."
+          },
+          {
+            "question": "How much does it cost to repair a fence?",
+            "answer": "The cost of fence repair varies depending on the extent of the damage and the type of fence. We offer free estimates."
+          }
+        ]
+      },
+      {
+        "slug": "commercial-fencing",
+        "name": "Commercial Fencing",
+        "shortDescription": "Secure and durable fencing solutions for San Diego businesses.",
+        "description": "Protecting your business is paramount. Inland Fence Inc provides comprehensive commercial fencing solutions designed to enhance security and define property lines. We understand the unique requirements of commercial properties, offering a range of durable and reliable fencing options tailored to your specific needs. From chain link security fences to ornamental iron fences, we have the expertise to deliver a fencing solution that meets your security and aesthetic goals.\n\nOur team works closely with business owners to assess their security needs and recommend the most appropriate fencing solution. We consider factors such as property size, security concerns, and budget to develop a customized plan that meets your requirements. We use high-quality materials and professional installation techniques to ensure that your commercial fence is built to last. Whether you need to secure a construction site, protect inventory, or deter vandalism, Inland Fence Inc can provide a reliable and effective fencing solution.\n\nEnhance the security and appearance of your San Diego business with a commercial fence from Inland Fence Inc.",
+        "process": [
+          "Security Assessment",
+          "Material Selection",
+          "Permitting Assistance",
+          "Efficient Installation"
+        ],
+        "benefits": [
+          "Enhanced Security",
+          "Defined Property Lines",
+          "Improved Aesthetics",
+          "Increased Property Value"
+        ],
+        "faq": [
+          {
+            "question": "What type of fence is best for commercial security?",
+            "answer": "Chain link fences are a popular choice for commercial security due to their durability and affordability. Wrought iron fences offer a more aesthetically pleasing option while still providing a high level of security."
+          },
+          {
+            "question": "Do I need a permit for a commercial fence in San Diego?",
+            "answer": "Yes, most commercial fence installations require a permit. We can assist you with the permitting process."
+          },
+          {
+            "question": "Can you install gates and access control systems with my commercial fence?",
+            "answer": "Yes, we offer a variety of gate and access control options to complement your commercial fence."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Chula Vista",
+        "slug": "chula-vista-ca",
+        "state": "CA",
+        "content": "Inland Fence Inc is proud to offer our expert fence installation and repair services to the residents and businesses of Chula Vista, California. As a city known for its vibrant community and diverse neighborhoods, Chula Vista presents unique fencing needs. We understand the architectural styles prevalent in the area, particularly the 1970s and 80s suburban homes, and can recommend fencing solutions that complement these properties. \n\nWhether you're looking to enhance your property's curb appeal, increase security, or create a safe space for your family and pets, Inland Fence Inc has the expertise to deliver exceptional results. Our team provides a wide range of fencing options, including wood, vinyl, chain link, and ornamental iron, tailored to meet your specific requirements and budget. With Chula Vista's mild year-round climate, selecting durable, weather-resistant materials is key to ensuring your fence lasts for years to come. We also handle fence repairs, ensuring the longevity of your existing fence.",
+        "localContext": "Chula Vista is characterized by its family-friendly atmosphere and numerous parks, making it ideal for fences that provide both security and aesthetic appeal. We understand the needs of Chula Vista homeowners.",
+        "nearbyAreas": [
+          "San Diego",
+          "National City",
+          "Imperial Beach"
+        ]
+      },
+      {
+        "city": "Carlsbad",
+        "slug": "carlsbad-ca",
+        "state": "CA",
+        "content": "Inland Fence Inc is dedicated to providing top-quality fencing services to the beautiful coastal community of Carlsbad, California. Known for its stunning beaches and charming beach community cottages, Carlsbad requires fencing solutions that are both functional and aesthetically pleasing. We specialize in designing and installing fences that complement the unique character of Carlsbad's homes and landscapes.\n\nFrom classic wood fences that enhance the natural beauty of your property to durable vinyl fences that withstand the coastal elements, we offer a wide range of options to suit your needs. Inland Fence Inc understands the importance of selecting materials that can withstand the mild year-round climate and occasional coastal storms. We provide fence repair services to ensure that your existing fence remains in top condition, protecting your property and maintaining its value.",
+        "localContext": "Carlsbad's coastal location and relaxed atmosphere influence the types of fences that are most suitable, often requiring weather-resistant materials and designs that blend with the beach community aesthetic.",
+        "nearbyAreas": [
+          "Oceanside",
+          "Encinitas",
+          "Vista"
+        ]
+      },
+      {
+        "city": "Escondido",
+        "slug": "escondido-ca",
+        "state": "CA",
+        "content": "Inland Fence Inc is proud to serve the diverse fencing needs of Escondido, California. With its mix of residential, commercial, and agricultural properties, Escondido presents a variety of fencing challenges. We have extensive experience working in Escondido and understand the unique requirements of its residents and businesses. We understand the common 1960s-70s ranch style homes in the area and can recommend fencing that complements these properties.\n\nWhether you need a sturdy fence for your ranch, a secure enclosure for your business, or an attractive fence for your home, Inland Fence Inc has the expertise to deliver exceptional results. We offer a wide range of fencing options, including wood, vinyl, chain link, and ornamental iron, tailored to meet your specific needs and budget. Given Escondido's mild year-round climate, selecting durable, weather-resistant materials is crucial for ensuring the longevity of your fence. We also provide fence repair services to keep your existing fence in optimal condition.",
+        "localContext": "Escondido is a diverse city with a mix of residential, commercial, and agricultural properties, requiring a range of fencing solutions to meet different needs and preferences.",
+        "nearbyAreas": [
+          "San Marcos",
+          "Vista",
+          "Poway"
+        ]
+      },
+      {
+        "city": "San Marcos",
+        "slug": "san-marcos-ca",
+        "state": "CA",
+        "content": "Inland Fence Inc. is your trusted fencing contractor in San Marcos, California. We offer comprehensive fence installation and repair services to homeowners and businesses throughout the area. San Marcos is a growing city with a diverse range of properties, and we're equipped to handle any fencing project, big or small.\n\nWe understand the importance of quality workmanship and customer satisfaction. That's why we use only the highest quality materials and employ experienced fence installers. Whether you're looking for a wood fence for privacy, a vinyl fence for low maintenance, or a chain-link fence for security, we have the perfect solution for you. We are committed to providing durable fences.",
+        "localContext": "San Marcos' blend of residential neighborhoods and commercial areas necessitates a variety of fencing styles to suit the different needs of its residents and businesses.",
+        "nearbyAreas": [
+          "Escondido",
+          "Vista",
+          "Carlsbad"
+        ]
+      },
+      {
+        "city": "Oceanside",
+        "slug": "oceanside-ca",
+        "state": "CA",
+        "content": "Inland Fence Inc. proudly serves the Oceanside, California community with top-notch fencing solutions. As a coastal city, Oceanside properties require durable and weather-resistant fences that can withstand the elements. We specialize in providing fencing that not only enhances the beauty of your property but also offers lasting protection.\n\nFrom classic wood fences to modern vinyl options, we offer a wide range of styles to complement your home or business. Our experienced team ensures precise installation and meticulous attention to detail. We're dedicated to helping you choose the perfect fence to meet your specific needs and budget. Our fences are built to withstand the test of time.",
+        "localContext": "Oceanside's coastal environment and mix of residential and commercial properties call for fences that are both aesthetically pleasing and capable of withstanding the elements.",
+        "nearbyAreas": [
+          "Carlsbad",
+          "Vista",
+          "San Clemente"
+        ]
+      },
+      {
+        "city": "Encinitas",
+        "slug": "encinitas-ca",
+        "state": "CA",
+        "content": "Inland Fence Inc. is pleased to offer our expert fencing services to the residents and businesses of Encinitas, California. Known for its beautiful beaches and laid-back lifestyle, Encinitas requires fencing solutions that are both functional and aesthetically pleasing. We understand the unique character of Encinitas and strive to provide fences that enhance the beauty of your property.\n\nWhether you're looking for a rustic wood fence, a modern vinyl fence, or a classic wrought iron fence, we have the perfect solution for you. Our experienced team will work with you to design and install a fence that meets your specific needs and budget. We ensure that our fences are built to last.",
+        "localContext": "Encinitas' coastal charm and emphasis on outdoor living make it ideal for fences that blend seamlessly with the natural surroundings and provide both privacy and security.",
+        "nearbyAreas": [
+          "Carlsbad",
+          "Solana Beach",
+          "Rancho Santa Fe"
+        ]
+      },
+      {
+        "city": "Poway",
+        "slug": "poway-ca",
+        "state": "CA",
+        "content": "Inland Fence Inc. is your trusted provider of fencing services in Poway, California. We offer a wide range of fencing options to meet the diverse needs of Poway homeowners and businesses. Poway is known for its family-friendly atmosphere and spacious properties, and we're committed to providing fencing solutions that enhance the beauty and security of your property.\n\nFrom traditional wood fences to durable vinyl fences, we have the perfect fence for you. Our experienced team will work with you to design and install a fence that meets your specific needs and budget. We prioritize quality!",
+        "localContext": "Poway's spacious properties and family-oriented community make it ideal for fences that provide privacy, security, and a safe space for children and pets.",
+        "nearbyAreas": [
+          "Escondido",
+          "Rancho Bernardo",
+          "Santee"
+        ]
+      },
+      {
+        "city": "Santee",
+        "slug": "santee-ca",
+        "state": "CA",
+        "content": "Inland Fence Inc. is proud to serve the Santee, California community with reliable and affordable fencing services. Santee is a growing city with a mix of residential and commercial properties, and we're equipped to handle any fencing project, big or small. We understand the importance of providing fences that are both functional and aesthetically pleasing.\n\nWhether you need a chain-link fence for security, a wood fence for privacy, or a vinyl fence for low maintenance, we have the perfect solution for you. Our experienced team will work with you to design and install a fence that meets your specific needs and budget. We deliver fences with quality materials.",
+        "localContext": "Santee's mix of residential and commercial properties requires a range of fencing styles to suit the different needs of its residents and businesses.",
+        "nearbyAreas": [
+          "El Cajon",
+          "La Mesa",
+          "Lakeside"
+        ]
+      },
+      {
+        "city": "El Cajon",
+        "slug": "el-cajon-ca",
+        "state": "CA",
+        "content": "Inland Fence Inc. is dedicated to providing high-quality fencing services to the residents and businesses of El Cajon, California. El Cajon is a diverse city with a mix of residential, commercial, and industrial properties, and we're equipped to handle any fencing project, no matter how complex. We understand the importance of providing fences that are both durable and secure.\n\nFrom chain-link fences to wrought iron fences, we offer a wide range of fencing options to meet your specific needs. Our experienced team will work with you to design and install a fence that meets your specific needs and budget. We are committed to providing durable fences.",
+        "localContext": "El Cajon's diverse landscape and mix of property types call for fencing solutions that are both functional and adaptable to various environments.",
+        "nearbyAreas": [
+          "La Mesa",
+          "Santee",
+          "Lakeside"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Wood Fence Installation",
+        "text": "Inland Fence Inc did an amazing job installing our new wood fence! The crew was professional, efficient, and the fence looks fantastic. They even cleaned up everything afterwards. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Chain Link Fence Repair",
+        "text": "We had a section of our chain link fence damaged in a recent storm. Inland Fence Inc came out quickly and repaired it perfectly. The price was fair, and the service was excellent.",
+        "date": "2025-02-28"
+      },
+      {
+        "name": "Jennifer L.",
+        "rating": 5,
+        "service": "Vinyl Fence Installation",
+        "text": "I absolutely love my new vinyl fence! It's exactly what I wanted. The Inland Fence Inc team was great to work with, and the quality of the fence is outstanding. No more painting!",
+        "date": "2025-01-10"
+      },
+      {
+        "name": "Robert B.",
+        "rating": 5,
+        "service": "Gate Repair",
+        "text": "Our gate was dragging and difficult to open. Inland Fence Inc fixed it quickly and efficiently. The technician was knowledgeable and professional. Great service!",
+        "date": "2024-12-05"
+      },
+      {
+        "name": "Susan M.",
+        "rating": 4,
+        "service": "Wrought Iron Fence Installation",
+        "text": "The wrought iron fence looks absolutely stunning! The installation process was smooth, and the crew was very respectful of our property. We're very happy with the result.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Michael P.",
+        "rating": 5,
+        "service": "Commercial Fencing",
+        "text": "Inland Fence Inc installed a security fence around our warehouse. They were professional and efficient, and the fence provides the security we needed. Highly recommend for commercial fencing needs.",
+        "date": "2024-10-12"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Inland Fence Inc | San Diego Fencing",
+        "description": "San Diego's premier fence contractor. Expert installation & repair for wood, vinyl, chain link, & wrought iron fences. Free quotes!"
+      },
+      "about": {
+        "title": "About Inland Fence Inc | San Diego, CA",
+        "description": "Learn about Inland Fence Inc, a trusted fence contractor in San Diego. Quality materials, expert installation, and local expertise."
+      },
+      "services": {
+        "title": "San Diego Fence Services | Installation & Repair",
+        "description": "Comprehensive fence services in San Diego. Wood, vinyl, chain link, wrought iron fences. Gate repair & installation. Free estimates!"
+      },
+      "contact": {
+        "title": "Contact Inland Fence Inc | San Diego, CA",
+        "description": "Contact Inland Fence Inc for all your fencing needs in San Diego. Get a free quote today! Phone: +17606381207"
+      },
+      "reviews": {
+        "title": "Inland Fence Inc Reviews | San Diego Fencing",
+        "description": "Read reviews from satisfied Inland Fence Inc customers in San Diego. Quality fence installation & repair services."
+      },
+      "service-areas": {
+        "title": "Inland Fence Inc Service Areas | San Diego",
+        "description": "Inland Fence Inc provides fence services throughout San Diego County. Chula Vista, Carlsbad, Escondido, and more."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "wood-fences": "/images/service-wood-fences.webp",
+      "vinyl-fences": "/images/service-vinyl-fences.webp",
+      "chain-link-fences": "/images/service-chain-link-fences.webp",
+      "iron-wrought-fences": "/images/service-iron-wrought-fences.webp",
+      "gate-installation-repair": "/images/service-gate-installation-repair.webp",
+      "fence-repair": "/images/service-fence-repair.webp",
+      "commercial-fencing": "/images/service-commercial-fencing.webp"
+    },
+    "servicesResponsive": {
+      "wood-fences": {
+        "src": "/images/service-wood-fences.webp",
+        "srcset": "/images/service-wood-fences-400w.webp 400w, /images/service-wood-fences-800w.webp 800w, /images/service-wood-fences-1200w.webp 1200w, /images/service-wood-fences.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "vinyl-fences": {
+        "src": "/images/service-vinyl-fences.webp",
+        "srcset": "/images/service-vinyl-fences-400w.webp 400w, /images/service-vinyl-fences-800w.webp 800w, /images/service-vinyl-fences-1200w.webp 1200w, /images/service-vinyl-fences.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "chain-link-fences": {
+        "src": "/images/service-chain-link-fences.webp",
+        "srcset": "/images/service-chain-link-fences-400w.webp 400w, /images/service-chain-link-fences-800w.webp 800w, /images/service-chain-link-fences-1200w.webp 1200w, /images/service-chain-link-fences.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "iron-wrought-fences": {
+        "src": "/images/service-iron-wrought-fences.webp",
+        "srcset": "/images/service-iron-wrought-fences-400w.webp 400w, /images/service-iron-wrought-fences-800w.webp 800w, /images/service-iron-wrought-fences-1200w.webp 1200w, /images/service-iron-wrought-fences.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gate-installation-repair": {
+        "src": "/images/service-gate-installation-repair.webp",
+        "srcset": "/images/service-gate-installation-repair-400w.webp 400w, /images/service-gate-installation-repair-800w.webp 800w, /images/service-gate-installation-repair-1200w.webp 1200w, /images/service-gate-installation-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fence-repair": {
+        "src": "/images/service-fence-repair.webp",
+        "srcset": "/images/service-fence-repair-400w.webp 400w, /images/service-fence-repair-800w.webp 800w, /images/service-fence-repair-1200w.webp 1200w, /images/service-fence-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "commercial-fencing": {
+        "src": "/images/service-commercial-fencing.webp",
+        "srcset": "/images/service-commercial-fencing-400w.webp 400w, /images/service-commercial-fencing-800w.webp 800w, /images/service-commercial-fencing-1200w.webp 1200w, /images/service-commercial-fencing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
